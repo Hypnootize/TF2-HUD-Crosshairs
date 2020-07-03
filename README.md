@@ -14,16 +14,16 @@ Huds are known for slowing down the game load times when a lot of font definitio
 
 3) Add the following paths to the ClientScheme, HudLayout and Animations_Manifest to make the crosshair files work
 
-* **Resource/ClientScheme.res**
- - #base "../resource/crosshairs/crosshair_scheme.res"
+   - **Resource/ClientScheme.res**
+       - #base "../resource/crosshairs/crosshair_scheme.res"
 
 
-* **Scripts/HudLayout.res**
- - #base "../resource/Crosshairs/crosshair.res
+   - **Scripts/HudLayout.res**
+       - #base "../resource/Crosshairs/crosshair.res
 
 
-* **Scripts/HudAnimations_Manifest.txt**
- - "file" "resource/Crosshairs/crosshair_animation.txt"
+   - **Scripts/HudAnimations_Manifest.txt**
+       - "file" "resource/Crosshairs/crosshair_animation.txt"
 
 ## Credits
 - **Fog** for [Fog Crosshair](https://www.teamfortress.tv/14702/release-fogs-crosshairs-v3)
@@ -34,5 +34,5 @@ Huds are known for slowing down the game load times when a lot of font definitio
 - **Seeker** for Seekers Crosshair
 
 ## Special Thanks
-- **omnibombulator**
-- **JarateKing**
+- [**omnibombulator**](https://github.com/omnibombulator)
+- [**JarateKing**](https://github.com/JarateKing)
