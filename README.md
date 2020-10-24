@@ -19,7 +19,7 @@ Huds are known for slowing down the game load times when a lot of font definitio
 
 
    - **Scripts/HudLayout.res**
-       - #base "../resource/Crosshairs/crosshair.res
+       - #base "../resource/Crosshairs/crosshair.res"
 
 
    - **Scripts/HudAnimations_Manifest.txt**
