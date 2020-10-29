@@ -12,7 +12,7 @@
 		//	  	"visible" "1" = Enabled  "visible" "0" = Disabled		//
 		//////////////////////////////////////////////////////////////////
 		
-		"visible"	"1"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshair" "enabled" "1" "zpos" "2" "wide" "100" "tall" "100" "textAlignment" "center"
+		"visible"	"1"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshair" "enabled" "1" "zpos" "2" "textAlignment" "center"
 		
 		//////////////////////////////////////////////////////////////////
 		//					  	   CROSSHAIR TYPE						//
@@ -45,6 +45,8 @@
 		
 		"xpos"		"c-50"
 		"ypos"		"c-50"
+		"wide"		"100"
+		"wide"		"100"
 		
 		//////////////////////////////////////////////////////////////////
 		//					     CROSSHAIR COLOR						//
