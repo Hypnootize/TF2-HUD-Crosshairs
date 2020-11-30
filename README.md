@@ -28,11 +28,13 @@ Huds are known for slowing down the game load times when a lot of font definitio
 ## Credits
 - **Fog** for [Fog Crosshair](https://www.teamfortress.tv/14702/release-fogs-crosshairs-v3)
 - **Pete** for [KnucklesCrosses](https://www.teamfortress.tv/26790/official-knucklescrosses-release)
-- **Broesel** for BroeselHUD Crosshairs
-- **Whayay** for Yahud Crosshairs
+- **Broesel** for [BroeselHUD Crosshairs](https://sourceforge.net/projects/broeselhud)
+- **Whayay** for [Yahud Crosshairs](https://github.com/whayay/yahud)
 - **Griever** for [ToonHud Crosshairs](https://toonhud.com/)
 - **Seeker** for Seekers Crosshair
+- **Garm3n** for wings Crosshairs
 
 ## Special Thanks
+- [**Whisker**](https://github.com/rbjaxter)
 - [**omnibombulator**](https://github.com/omnibombulator)
 - [**JarateKing**](https://github.com/JarateKing)
