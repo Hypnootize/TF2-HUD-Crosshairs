@@ -219,6 +219,7 @@ Scheme
 		"100"
 		{
 			"font" "resource/crosshairs/TF2Crosshairs.ttf"
+			"font" "resource/crosshairs/kbnhudicons_linux.otf" [$LINUX]
 			"name" "TF2Crosshairs"
 		}
 	}
