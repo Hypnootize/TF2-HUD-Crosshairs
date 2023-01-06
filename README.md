@@ -25,6 +25,10 @@ Huds are known for slowing down the game load times when a lot of font definitio
    - **Scripts/HudAnimations_Manifest.txt**
        - "file" "resource/Crosshairs/crosshair_animation.txt"
 
+
+### Notes
+For `HudAnimations_Manifest.txt`, you want to paste the mentioned line right after the `"file" "scripts/hudanimations.txt"` line, also a pre-existent `event DamagedPlayer` in your HUD animations could interfere with this.
+
 ## Credits
 - **Fog** for [Fog Crosshair](https://www.teamfortress.tv/14702/release-fogs-crosshairs-v3)
 - **Pete** for [KnucklesCrosses](https://www.teamfortress.tv/26790/official-knucklescrosses-release)
